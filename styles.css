@@ -1,3 +1,15 @@
+* {
+    font-family: helvetica;
+}
+
+body {
+    margin-left: 2vw;
+}
+
+
 h1 {
     color: red;
+    width: 100vw;
+    text-align: center;
+    font-family: helvetica;
 }
